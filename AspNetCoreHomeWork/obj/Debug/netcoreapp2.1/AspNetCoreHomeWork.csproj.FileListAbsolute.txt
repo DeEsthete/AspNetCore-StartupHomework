@@ -1,0 +1,13 @@
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\bin\Debug\netcoreapp2.1\AspNetCoreHomeWork.deps.json
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\bin\Debug\netcoreapp2.1\AspNetCoreHomeWork.runtimeconfig.json
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\bin\Debug\netcoreapp2.1\AspNetCoreHomeWork.runtimeconfig.dev.json
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\bin\Debug\netcoreapp2.1\AspNetCoreHomeWork.dll
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\bin\Debug\netcoreapp2.1\AspNetCoreHomeWork.pdb
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\obj\Debug\netcoreapp2.1\AspNetCoreHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\obj\Debug\netcoreapp2.1\AspNetCoreHomeWork.RazorAssemblyInfo.cache
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\obj\Debug\netcoreapp2.1\AspNetCoreHomeWork.RazorAssemblyInfo.cs
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\obj\Debug\netcoreapp2.1\AspNetCoreHomeWork.AssemblyInfoInputs.cache
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\obj\Debug\netcoreapp2.1\AspNetCoreHomeWork.AssemblyInfo.cs
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\obj\Debug\netcoreapp2.1\AspNetCoreHomeWork.RazorTargetAssemblyInfo.cache
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\obj\Debug\netcoreapp2.1\AspNetCoreHomeWork.dll
+C:\Users\djoni\Desktop 2\Grand collection\AspNetCoreHomeWork\AspNetCoreHomeWork\obj\Debug\netcoreapp2.1\AspNetCoreHomeWork.pdb
