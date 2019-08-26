@@ -23,7 +23,7 @@ namespace AspNetCoreHomeWork
             }
             catch (Exception ex)
             {
-                await context.Response.WriteAsync("Error code: 400. Error message: " + ex.Message);
+                await context.Response.WriteAsync($"Error code: {context.Response.StatusCode}. Error message: ");
             }
         }
     }

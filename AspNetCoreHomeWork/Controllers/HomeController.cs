@@ -10,7 +10,8 @@ namespace AspNetCoreHomeWork.Controllers
     {
         public IActionResult Index()
         {
-            throw new Exception();
+            Response.StatusCode = 400;
+            throw new Exception("Index exception");
             return View();
         }
     }

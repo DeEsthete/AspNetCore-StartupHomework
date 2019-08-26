@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djoni\\Desktop 2\\Grand collection\\AspNetCoreHomeWork\\AspNetCoreHomeWork\\AspNetCoreHomeWork.csproj": {}
+    "C:\\Users\\ПавловЕ\\Desktop\\AspNetCore-StartupHomework\\AspNetCoreHomeWork\\AspNetCoreHomeWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djoni\\Desktop 2\\Grand collection\\AspNetCoreHomeWork\\AspNetCoreHomeWork\\AspNetCoreHomeWork.csproj": {
+    "C:\\Users\\ПавловЕ\\Desktop\\AspNetCore-StartupHomework\\AspNetCoreHomeWork\\AspNetCoreHomeWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djoni\\Desktop 2\\Grand collection\\AspNetCoreHomeWork\\AspNetCoreHomeWork\\AspNetCoreHomeWork.csproj",
+        "projectUniqueName": "C:\\Users\\ПавловЕ\\Desktop\\AspNetCore-StartupHomework\\AspNetCoreHomeWork\\AspNetCoreHomeWork.csproj",
         "projectName": "AspNetCoreHomeWork",
-        "projectPath": "C:\\Users\\djoni\\Desktop 2\\Grand collection\\AspNetCoreHomeWork\\AspNetCoreHomeWork\\AspNetCoreHomeWork.csproj",
-        "packagesPath": "C:\\Users\\djoni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djoni\\Desktop 2\\Grand collection\\AspNetCoreHomeWork\\AspNetCoreHomeWork\\obj\\",
+        "projectPath": "C:\\Users\\ПавловЕ\\Desktop\\AspNetCore-StartupHomework\\AspNetCoreHomeWork\\AspNetCoreHomeWork.csproj",
+        "packagesPath": "C:\\Users\\ПавловЕ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ПавловЕ\\Desktop\\AspNetCore-StartupHomework\\AspNetCoreHomeWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\djoni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ПавловЕ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -55,7 +53,6 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
